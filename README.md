@@ -38,17 +38,7 @@ I enjoy learning new technologies, solving problems, and building practical proj
 * Git
 * GitHub
 
-## 🌱 Featured Project
 
-### 🌿 Plantora – Smart Plant & Agriculture Solution
-
-**Plantora** is a technology-based project focused on providing a smarter and more accessible solution for plant-related information and agricultural needs.
-
-* 🌱 Developed a practical solution focused on plant and agriculture-related use cases.
-* 🤖 Explored the integration of **Artificial Intelligence** to enhance the application's capabilities.
-* 💻 Applied programming, problem-solving, and software development concepts throughout the project.
-* 📊 Focused on building a user-oriented solution to address practical requirements.
-* 🔧 Strengthened skills in application development, system design, and project implementation.
 
 **Key Areas:**
 
