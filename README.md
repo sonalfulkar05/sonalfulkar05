@@ -88,9 +88,9 @@ I enjoy learning new technologies, solving problems, and building practical proj
 
 ## 📊 GitHub Stats
 
-![Sonal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=tokyonight)
+![Sonal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonalfulkar05\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonalfulkar05\&layout=compact\&theme=tokyonight)
 
 ## 🤝 Connect With Me
 
