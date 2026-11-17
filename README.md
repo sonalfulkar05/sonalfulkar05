@@ -86,11 +86,6 @@ I enjoy learning new technologies, solving problems, and building practical proj
 * 🎯 End-to-end task ownership
 * 📝 Documentation and operational efficiency
 
-## 📊 GitHub Stats
-
-![Sonal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonalfulkar05\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonalfulkar05\&layout=compact\&theme=tokyonight)
 
 ## 🤝 Connect With Me
 
